@@ -45,6 +45,7 @@ Customer Buying Behavior Trends
 📂 Project Structure
 
 Pizza-Sales-SQL-Analysis/
+
 │── pizza_sales_queries.sql   # SQL script with all queries  
 │── README.md                 # Project documentation  
 
