@@ -61,7 +61,8 @@ Classic & Supreme categories dominated overall revenue contribution.
 
 Clone this repository:
 
-git clone https://github.com/your-username/pizza-sales-sql.git
+git clone https://github.com/Soumya-aran/Pizza-Sales-Analysis-Using-SQL.git
+
 
 
 Open the pizza_sales_queries.sql file in MySQL Workbench (or your SQL IDE).
